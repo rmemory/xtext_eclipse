@@ -1,0 +1,1 @@
+./dsl-neon/eclipse/eclipse -vm ./jdk1.8.0_121/jre/bin -configuration ./eclipse-data/config -clean &> /dev/null
